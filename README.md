@@ -1,3 +1,4 @@
+![ApisDom Intelligence Group](https://firebasestorage.googleapis.com/v0/b/apisdom-portal.firebasestorage.app/o/ApisDom%20Intelligence%20Group%2FApisDom%20Intelligence%20Group.webp?alt=media&token=230a5174-44e2-43e9-9195-c07afd5b3e61)
 # LaAutopsIA - Open Datasets Hub by ApisDom
 
 Repositorio público indexador de los conjuntos de datos abiertos del observatorio LaAutopsIA. Este nodo sirve como puntero técnico y centraliza el acceso a las plataformas oficiales de distribución, análisis y preservación de los corpus de datos sobre Inteligencia Artificial en español.
